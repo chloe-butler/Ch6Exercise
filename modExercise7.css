@@ -1,0 +1,44 @@
+
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: orange;
+    text-decoration: underline;
+}
+
+
+a:visited {
+    color: purple;
+}
+
+
+body {
+    background-color: #f4f4f4;
+    color: #333;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h1 {
+    color: #0055AA;
+}
+img {
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+}
+footer {
+    margin-top: 20px;
+    background-color: lightblue;
+    padding: 10px;
+}
+
+.image-container img {
+    width: 300px;      height: auto; 
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+}
